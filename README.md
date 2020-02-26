@@ -96,5 +96,5 @@ This assignment introduces the GPIO pins of the micro:bit. _Refer to the [criter
 _TODO: Record and describe your circuit measurements and calculations here._
 
 ## Demo videos
-
+imgur.com/gallery/ymyopmR
 _TODO: Add your video descriptions and URLs here. The videos should clearly show the completion of the corresponding task._
